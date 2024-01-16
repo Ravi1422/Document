@@ -1,4 +1,3 @@
 # Document
 This is my Git Repository.
-
-Author - Ravi 
+Author - Ravi (Document)
